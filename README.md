@@ -2,3 +2,4 @@
 
 Carlos Calvo (Alfa):
 -Se ven las modificaciones que hicieron Beta y Gamma.
+-También se ven los archivos que suben al repositorio.
